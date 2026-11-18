@@ -94,7 +94,6 @@ Số tiền còn lại để chi tiêu là **4.400.000 VNĐ**.
 | Chi tiêu thiết yếu hằng ngày | 2.640.000 |
 | Chi tiêu cá nhân, giải trí | 1.760.000 |
 | **Tổng phân bổ** | **20.000.000** |
-| **Số dư còn lại** | **0** |
 
 ## Kết luận
 
